@@ -1,0 +1,16 @@
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.exe.config
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.exe
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.pdb
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.exe
+C:\Users\Usuario\Desktop\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.pdb
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.exe.config
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.exe
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\bin\Debug\ProgramaBebida.pdb
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.AssemblyReference.cache
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.exe
+C:\Users\alexi\Downloads\ProgramaBebida\ProgramaBebida\ProgramaBebida\obj\Debug\ProgramaBebida.pdb
