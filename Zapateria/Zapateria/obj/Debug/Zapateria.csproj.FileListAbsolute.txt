@@ -1,0 +1,8 @@
+C:\Users\alexi\Documents\Zapateria\Zapateria\bin\Debug\Zapateria.exe.config
+C:\Users\alexi\Documents\Zapateria\Zapateria\bin\Debug\Zapateria.exe
+C:\Users\alexi\Documents\Zapateria\Zapateria\bin\Debug\Zapateria.pdb
+C:\Users\alexi\Documents\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.AssemblyReference.cache
+C:\Users\alexi\Documents\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexi\Documents\Zapateria\Zapateria\obj\Debug\Zapateria.csproj.CoreCompileInputs.cache
+C:\Users\alexi\Documents\Zapateria\Zapateria\obj\Debug\Zapateria.exe
+C:\Users\alexi\Documents\Zapateria\Zapateria\obj\Debug\Zapateria.pdb
